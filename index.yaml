@@ -3,7 +3,7 @@ entries:
   open5gs-upf:
   - apiVersion: v2
     appVersion: 2.4.11
-    created: "2024-09-17T07:57:37.047522316Z"
+    created: "2024-09-17T08:12:21.190020258Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -11,7 +11,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: 'Helm chart to deploy Open5gs UPF service on Kubernetes. '
-    digest: dc02116902eb877a6324b282aed2375ce44fcba9d32d0d6b8290162c60a0922d
+    digest: 0bc2b44eb99fca610b05491d9b6835d1d8fdd65586d16fa831846575c854045f
     icon: https://open5gs.org/assets/img/open5gs-logo.png
     keywords:
     - ngc
@@ -22,4 +22,4 @@ entries:
     urls:
     - open5gs-upf-2.1.0.tgz
     version: 2.1.0
-generated: "2024-09-17T07:57:37.044625104Z"
+generated: "2024-09-17T08:12:21.187480672Z"
